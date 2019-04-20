@@ -77,7 +77,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="ssale" style="display: none;">
+	<section class="ssale">
 		<div class="container">
 			<h2 class="bold s18 t3 sale-tit">[HOT 2019] - TIỆC ĐỒNG GIÁ 99 K</h2>
 			<div class="sale-slider">
@@ -342,7 +342,7 @@
 		</div>
 	</section>
 
-	<section class="spro" style="display: none;">
+	<section class="spro">
 		<div class="container">
 			<h2 class="s16 t5 b2 mb-4 spro-tit"><span class="b1"><img src="{{ asset('public/frontend/') }}/images/11.png" alt="" title=""> TRANG ĐIỂM - MAKE UP</span></h2>
 			<div class="row spro-row">
